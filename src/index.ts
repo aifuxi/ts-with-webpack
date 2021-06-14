@@ -1,0 +1,1 @@
+console.log('🚀🚀🚀 >>: This is typescript with webpack5 ~~')
